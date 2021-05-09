@@ -1,0 +1,6 @@
+For the home page of my website, maybe it would be a good idea for me to introduce myself. Not introduce myself in full as that should be for
+the "about me" page. But rather a introduction into my website and what's in it. Having a banner and/or some artwork would also be appealing
+cause it can catch the viewers attention. The home page is the first page that they will see so it need to pop out. By having bold colors it
+could stand out more and catch the viewers' attention. My favorite color is green so I would probably use green in some form in my css file for this
+website. Since it is the home page, it should also be easy to navigate. I should make sure that the home page is easy to navigate by having the tabs
+to the other pages on top so that the viewer can't miss it. 
